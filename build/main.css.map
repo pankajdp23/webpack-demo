@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAIA,QACI,wBACA,WACI","sources":["webpack://webpack-demo/./src/index.scss"],"sourcesContent":["body {\n    \n}\n\n.header {\n    background-color: orange;\n    li {\n        color: maroon;\n    }\n}"],"names":[],"sourceRoot":""}
